@@ -90,9 +90,9 @@ I focus on **Data Analysis** and **Data Engineering**—building end-to-end pipe
 ---
 
 
-## 🐍 Snake Eating My Contributions
+## 🟡 Pacman Eating My Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mkautsarpb/mkautsarpb/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/mkautsarpb/mkautsarpb/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 </p>
 
 ---
