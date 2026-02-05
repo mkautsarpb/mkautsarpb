@@ -29,6 +29,16 @@ I focus on **Data Analysis** and **Data Engineering**—building end-to-end pipe
 - 🔎 Focus: **SQL, Data Modeling, ETL/ELT, Data Pipelines, Dashboarding**
 - 🧱 Favorite tools: **Airflow, dbt, BigQuery/Snowflake, Superset/Power BI, Python**
 - ⚡ Automation: **n8n** for workflow and data integrations
+- 🌐 Web Analytics Delivery: I build **web dashboards** using **Next.js + React** and can **embed Apache Superset** securely for analytics distribution
+- 🚀 Deployment: I can deploy apps to **Vercel** and **Railway**
+
+---
+
+## 🧩 What I Can Build
+- 📊 **Data Dashboards**: Next.js/React dashboard UI with KPI cards, filters, and charts
+- 🔐 **Superset Embedding**: Embed Superset dashboards (guest token / SSO-style flows) into a custom web app
+- 🏗️ **Data Pipelines**: Orchestrated ELT with Airflow + dbt + warehouse (BigQuery/Snowflake)
+- ⚙️ **Automation**: n8n workflows for integrations, alerts, and operational tasks
 
 ---
 
@@ -67,6 +77,14 @@ I focus on **Data Analysis** and **Data Engineering**—building end-to-end pipe
 ### 🔁 Automation
 <p>
   <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+### 🌐 Web & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-111111?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 
 ---
