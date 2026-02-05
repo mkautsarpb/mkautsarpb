@@ -71,26 +71,6 @@ I focus on **Data Analysis** and **Data Engineering**—building end-to-end pipe
 
 ---
 
-## 📌 Featured Projects
-> Coming soon. I’m currently preparing a few repos with clean documentation and demos.
-
-- ✅ **Data Pipeline Starter** — Airflow + dbt + Warehouse + BI (in progress)
-- ✅ **Analytics Dashboard Pack** — reusable dashboards and KPI templates (in progress)
-- ✅ **Automation Workflows** — n8n integrations for data operations (in progress)
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mkautsarpb&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkautsarpb&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mkautsarpb&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🐍 Snake Eating My Contributions
 <p align="center">
