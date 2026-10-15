@@ -47,30 +47,6 @@ I enjoy building products that combine **clean user interfaces, reliable data sy
 
 ---
 
-## 💼 Professional Experience Highlights
-
-### 📊 Data Analyst — PT Multitech Trans Nusantara
-Developed internal digital systems to transform manual Excel-based workflows into centralized web applications.
-
-Key contributions:
-
-- Developed internal **operational and financial management systems**
-- Built a management platform for a **sports club**
-- Developed a **rental asset management system**
-- Created dashboards for **revenue, expenses, Profit & Loss, payment status, and operational performance**
-- Built **WhatsApp automation bots** for daily conversation summaries and task/document reminders
-- Developed an automated **daily revenue reporting pipeline** distributed through email and WhatsApp
-
-### 🏗️ Data Specialist Intern — Tata Informasi Asia
-
-- Built and maintained **ETL data pipelines**
-- Automated workflows using **Apache Airflow**
-- Performed SQL-based analysis using **PostgreSQL, DBeaver, and Superset**
-- Developed interactive business dashboards
-- Built forecasting models using **Prophet, SARIMAX, Kalman Filtering, and Seasonal Naive methods**
-
----
-
 # ⭐ Featured Projects
 
 ## 🏆 PORSIMAPTAR 2026 — National Competition Website
